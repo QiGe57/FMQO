@@ -10,7 +10,7 @@
 
 **论文**
 **FMQO: A Federated RDF System Supporting Multi-Query Optimization**\
-APWeb-WAIM 2019   "Best Demo Award"\
+APWeb-WAIM 2019   "**Best Demo Award**"\
 http://cfm.uestc.edu.cn/apwebwaim2019/accepted.html
 
 
