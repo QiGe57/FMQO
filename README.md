@@ -15,4 +15,4 @@ http://cfm.uestc.edu.cn/apwebwaim2019/accepted.html
 
 
 Poster:\
-![image](https://github.com/QiGe57/MultiQueryOptimization/blob/master/resources/poster.png)
+![image](https://github.com/QiGe57/MultiQueryOptimization/blob/master/resources/FMQO_poster1.jpg?raw=true)
