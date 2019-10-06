@@ -1,6 +1,0 @@
-http://172.26.35.253:8080/openrdf-sesame	watdiv100
-http://172.26.35.252:8080/openrdf-sesame	watdiv100
-http://172.26.35.254:8080/openrdf-sesame	watdiv100
-http://172.26.35.249:8080/openrdf-sesame	watdiv100
-http://172.26.35.250:8080/openrdf-sesame	watdiv100
-http://172.26.35.251:8080/openrdf-sesame	watdiv100
