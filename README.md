@@ -5,24 +5,24 @@
 **3，查询处理**\
 **4，查询结果连接**
 
-------
+
 
 ## 算法框架
 
 ![image](https://github.com/QiGe57/FMQO/blob/master/resources/fmqo_framework.png?raw=true)
 
 ## 运行
-**运行环境**
+### 运行环境
 
 Linux / win all \
 java 1.8
 
-**Demo**
+### Demo
 
 [点击查看](http://39.98.70.144:8088/FMQO)
 
 
-**快速开始**
+### 快速开始
 1. 下载 `FMQO_ask.jar`、`conf`文件夹(配置文件)、`lib.zip`（需要的jar包）
 
 2. 运行 jar 包
