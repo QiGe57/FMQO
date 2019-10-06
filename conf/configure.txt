@@ -1,0 +1,7 @@
+DataServerFile=./watdiv100M.txt
+optimizaType=values
+outputPath=./logs
+WorkloadPath=watdiv_example.txt
+DataType=Watdiv100M
+STGFileStr=STG_QTree.txt
+Data=./property/watdiv100M_39.98.70.144_172.26.35.252.property;./property/watdiv100M_47.92.150.30_172.26.35.250.property;./property/watdiv100M_47.92.162.13_172.26.35.249.property;./property/watdiv100M_47.92.162.51_172.26.35.253.property;./property/watdiv100M_47.92.169.107_172.26.35.251.property;./property/watdiv100M_47.92.170.33_172.26.35.254.property

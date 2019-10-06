@@ -1,0 +1,17 @@
+<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>
+<http://db.uwaterloo.ca/~galuc/wsdbm/follows>
+<http://db.uwaterloo.ca/~galuc/wsdbm/friendOf>
+<http://db.uwaterloo.ca/~galuc/wsdbm/subscribes>
+<http://db.uwaterloo.ca/~galuc/wsdbm/userId>
+dcterms:Location
+<http://schema.org/birthDate>
+<http://schema.org/email>
+<http://xmlns.com/foaf/age>
+<http://db.uwaterloo.ca/~galuc/wsdbm/gender>
+<http://schema.org/nationality>
+<http://xmlns.com/foaf/familyName>
+<http://xmlns.com/foaf/givenName>
+<http://schema.org/jobTitle>
+<http://db.uwaterloo.ca/~galuc/wsdbm/likes>
+<http://schema.org/telephone>
+<http://xmlns.com/foaf/homepage>
