@@ -1,18 +1,58 @@
-# Multi-Query Optimization
-# **联邦型分布式RDF数据库系统上的多查询优化**
+# 联邦型分布式RDF数据库系统上的多查询优化系统
+
 **1，查询分解与数据源选择**
 **2，查询重写**
 **3，查询处理**
 **4，查询结果连接**
 
+------
+
+## 算法框架
+
+![image](https://github.com/QiGe57/FMQO/blob/master/resources/fmqo_framework.png?raw=true)
+
+## 运行
+**运行环境**
+Linux / win all
+java 1.8
+
+**快速开始**
+1. 下载 `FMQO_ask.jar`、`conf`文件夹(配置文件)、`lib.zip`（需要的jar包）
+
+2. 运行 jar 包
+举例：
+```
+java -jar FMQO_ask.jar ./conf/configure.txt 10 50 2000
+```
+运行参数说明
+```
+Usage:java -jar xx.jar <configureFile> <windowSize> <queryNum> <joinNum>
+<queryNum> : the number of queries
+<joinNum> : the number of intermediate result
+```
 
 ---
 
-**论文**
-**FMQO: A Federated RDF System Supporting Multi-Query Optimization**\
-APWeb-WAIM 2019   "**Best Demo Award**"\
-http://cfm.uestc.edu.cn/apwebwaim2019/accepted.html
+configure.txt 文件说明
 
+| 参数 | 说明  |
+| :------------ | :------------ |
+| DataServerFile  |  服务器的配置 |
+|  optimizaType |  优化类型；可填 values（默认） 、 Filter、optional 或者 none（不用任何 Join 优化） |
+|outputPath | 日志和结果的输出位置 |
+| WorkloadPath| 查询文件的位置 |
+|DataType | 如 watdiv100M |
+|STGFileStr |数据库拓扑关系文件的位置 |
+|Data | RDF数据谓词的位置 |
+ 
 
-Poster:\
+ 
+---
+
+## 论文
+1. [TKDE 2019] Optimizing Multi-Query Evaluation in Federated RDF Systems
+
+2. [APWeb-WAIM 2019] FMQO: A Federated RDF System Supporting Multi-Query Optimization  , [查看](https://link.springer.com/chapter/10.1007/978-3-030-26075-0_30) , **Best Demo Award** .\
+
+**Poster**:\
 ![image](https://github.com/QiGe57/MultiQueryOptimization/blob/master/resources/FMQO_poster1.jpg?raw=true)
