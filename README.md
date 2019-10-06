@@ -13,8 +13,14 @@
 
 ## 运行
 **运行环境**
+
 Linux / win all \
 java 1.8
+
+**Demo**
+
+[点击查看](http://39.98.70.144:8088/FMQO)
+
 
 **快速开始**
 1. 下载 `FMQO_ask.jar`、`conf`文件夹(配置文件)、`lib.zip`（需要的jar包）
@@ -46,7 +52,6 @@ configure.txt 文件说明
 |Data | RDF数据谓词的位置 |
  
 
- 
 ---
 
 ## 论文
