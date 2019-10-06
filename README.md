@@ -13,7 +13,7 @@
 
 ## 运行
 **运行环境**
-Linux / win all
+Linux / win all \
 java 1.8
 
 **快速开始**
