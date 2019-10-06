@@ -1,4 +1,4 @@
-# 联邦型分布式RDF数据库系统上的多查询优化系统
+# 联邦型分布式RDF数据库系统上的多查询优化
 
 **1，查询分解与数据源选择**\
 **2，查询重写**\
@@ -18,7 +18,7 @@ Linux / win all \
 java 1.8
 
 ### Demo
-
+基于FMQO算法实现的简单演示网站
 [点击查看](http://39.98.70.144:8088/FMQO)
 
 
@@ -26,10 +26,12 @@ java 1.8
 1. 下载 `FMQO_ask.jar`、`conf`文件夹(配置文件)、`lib.zip`（需要的jar包）
 
 2. 运行 jar 包
+
 举例：
 ```
 java -jar FMQO_ask.jar ./conf/configure.txt 10 50 2000
 ```
+
 运行参数说明
 ```
 Usage:java -jar xx.jar <configureFile> <windowSize> <queryNum> <joinNum>
