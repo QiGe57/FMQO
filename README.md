@@ -25,7 +25,7 @@ java 1.8
 ### 快速开始
 1. 下载 `FMQO_ask.jar`、`conf`文件夹(配置文件)、`lib.zip`（需要的jar包）
 
-2. 运行 jar 包
+2. 运行 FMQO_ask.jar 
 
 举例：
 ```
