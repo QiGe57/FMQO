@@ -9,7 +9,7 @@
 
 ## 算法框架
 
-![image](https://github.com/QiGe57/FMQO/blob/master/resources/fmqo_framework.png?raw=true)
+![image](https://github.com/QiGe57/FMQO/blob/master/resources/fmqo_framework.png?raw=true){:height="100" width="100"}
 
 ## 运行
 ### 运行环境
