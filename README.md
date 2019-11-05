@@ -60,6 +60,3 @@ configure.txt 文件说明
 1. [TKDE 2019] Optimizing Multi-Query Evaluation in Federated RDF Systems
 
 2. [APWeb-WAIM 2019] FMQO: A Federated RDF System Supporting Multi-Query Optimization  , [查看](https://link.springer.com/chapter/10.1007/978-3-030-26075-0_30) , **Best Demo Award** .
-
-**Poster**:\
-![image](https://github.com/QiGe57/MultiQueryOptimization/blob/master/resources/FMQO_poster1.jpg?raw=true)
